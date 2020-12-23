@@ -1,1 +1,7 @@
-
+google:
+  ads:
+    refreshToken:
+    clientId:
+    developerToken:
+    clientSecret:
+    loginCustomerId:
